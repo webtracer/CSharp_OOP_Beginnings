@@ -1,0 +1,16 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\bin\Debug\net5.0\OOP_Intro.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\bin\Debug\net5.0\OOP_Intro.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\bin\Debug\net5.0\OOP_Intro.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\bin\Debug\net5.0\OOP_Intro.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\bin\Debug\net5.0\OOP_Intro.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\bin\Debug\net5.0\ref\OOP_Intro.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\bin\Debug\net5.0\OOP_Intro.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\obj\Debug\net5.0\OOP_Intro.csproj.AssemblyReference.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\obj\Debug\net5.0\OOP_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\obj\Debug\net5.0\OOP_Intro.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\obj\Debug\net5.0\OOP_Intro.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\obj\Debug\net5.0\OOP_Intro.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\obj\Debug\net5.0\OOP_Intro.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\obj\Debug\net5.0\ref\OOP_Intro.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\obj\Debug\net5.0\OOP_Intro.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Intro\OOP_Intro\obj\Debug\net5.0\OOP_Intro.genruntimeconfig.cache

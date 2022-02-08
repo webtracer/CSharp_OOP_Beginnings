@@ -1,0 +1,16 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\bin\Debug\net5.0\OOP_Properties.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\bin\Debug\net5.0\OOP_Properties.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\bin\Debug\net5.0\OOP_Properties.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\bin\Debug\net5.0\OOP_Properties.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\bin\Debug\net5.0\OOP_Properties.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\bin\Debug\net5.0\ref\OOP_Properties.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\bin\Debug\net5.0\OOP_Properties.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\obj\Debug\net5.0\OOP_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\obj\Debug\net5.0\OOP_Properties.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\obj\Debug\net5.0\OOP_Properties.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\obj\Debug\net5.0\OOP_Properties.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\obj\Debug\net5.0\OOP_Properties.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\obj\Debug\net5.0\ref\OOP_Properties.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\obj\Debug\net5.0\OOP_Properties.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\obj\Debug\net5.0\OOP_Properties.genruntimeconfig.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\OOP_Properties\OOP_Properties\obj\Debug\net5.0\OOP_Properties.csproj.AssemblyReference.cache
